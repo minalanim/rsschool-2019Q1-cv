@@ -19,9 +19,9 @@ __Anna Murashko__
       <hr>
       <form action="submission.html" method="POST">
         <h1>Create a burger!</h1>
-					<section class="protein">
+	    <section class="protein">
           <label for="patty">What type of protein would you like?</label>
-    			<input type="text" name="patty" id="patty">
+    	<input type="text" name="patty" id="patty">
         </section>
         <hr>
         <section class="patties">
@@ -79,15 +79,12 @@ __Anna Murashko__
         <section class="extra-info">
           <label for="extra">Anything else you want to add?</label>
           <br>
-          <textarea id="extra" name="extra" rows="3" cols="40">fill in, dude</textarea>
+          <textarea id="extra" name="extra" rows="3" cols="40">fill in, please</textarea>
         </section>
         <hr>
-
         <section class="submission">
           <input type="submit" value="Submit">
-          
         </section>
-        
       </form>
     </section>
   </body>
