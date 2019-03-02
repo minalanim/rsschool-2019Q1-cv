@@ -1,9 +1,9 @@
 __Anna Murashko__
 * ann.murashko@gmail.com, _phone number: +375291530483_
-* A little bit information about me. I suppose that I am able to learn new technology quickly and I’m actually fond of learning something new. I like to apply new __knowledge__ on __practice__. And I am also a sociable person, I like to make new acquaintance with people, so I think that teamwork is the most important for resolving problems and any nascent difficulties.
-* Skills: 
+* A little bit __information__ about me. I suppose that I am able to learn new technology quickly and I’m actually fond of learning something new. I like to apply new __knowledge__ on __practice__. And I am also a sociable person, I like to make new acquaintance with people, so I think that teamwork is the most important for resolving problems and any nascent difficulties.
+* __Skills__: 
   - HTML and CSS basic theoretical and practical knowledge, also have a little knowledge in SQL and JAVA; and I use Git as version control system.
-* This code example was written while I was styding HTML on www.codeacademy.com 
+* This __code example__ was written while I was styding HTML on www.codeacademy.com 
 ```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -94,7 +94,7 @@ __Anna Murashko__
 </html>
 ```
 
-* I have lack of experience in writing a code, everything I know I learned by myself and with the help of such online resources as CodeAcademy and SoloLearn. This is a new path for me and I already have some achievements which you can see on the site of [CodeAcademy](https://www.codeacademy.com/users/minalanim/achievements) and [SoloLearn](https://www.sololearn.com/Profile/1548862). 
+* I have lack of experience in writing a code, everything I know I learned by myself and with the help of such online resources as _CodeAcademy_ and _SoloLearn_. This is a new path for me and I already have some achievements which you can see on the site of [CodeAcademy](https://www.codeacademy.com/users/minalanim/achievements) and [SoloLearn](https://www.sololearn.com/Profile/1548862). 
 
 * __Education__. I have a bachelor degree in foreign languages at Francisk Skorina Gomel State University. My level of English and French is Upper-Intermediate(B2) and level of Chinese is Intermediate(B1).
-* My level of English is Upper-Intermediate(B2), I have passed the test on test.str.by to check it. I've been studying English for 4 years at the University and now it is my second year of teaching English to children at school.
+* My __level of English__ is Upper-Intermediate(B2), I have passed the test on test.str.by to check it. I've been studying English for 4 years at the University and now it is my second year of teaching English to children at school.
