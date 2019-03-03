@@ -4,6 +4,7 @@ __Anna Murashko__
 * Skills: 
   - HTML and CSS basic theoretical and practical knowledge, also have a little knowledge in SQL and JAVA; and I use Git as version control system.
 * This code example was written while I was styding HTML on www.codeacademy.com 
+
 ```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -19,9 +20,9 @@ __Anna Murashko__
       <hr>
       <form action="submission.html" method="POST">
         <h1>Create a burger!</h1>
-					<section class="protein">
+	<section class="protein">
           <label for="patty">What type of protein would you like?</label>
-    			<input type="text" name="patty" id="patty">
+    	<input type="text" name="patty" id="patty">
         </section>
         <hr>
         <section class="patties">
@@ -82,12 +83,9 @@ __Anna Murashko__
           <textarea id="extra" name="extra" rows="3" cols="40">fill in, dude</textarea>
         </section>
         <hr>
-
         <section class="submission">
           <input type="submit" value="Submit">
-          
         </section>
-        
       </form>
     </section>
   </body>
